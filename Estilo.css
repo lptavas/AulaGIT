@@ -1,0 +1,20 @@
+body {
+background: #254984;
+text-align: center;
+color: #ffffff;
+}
+
+p {
+  font-family: tahoma;
+  color: yellow;
+}
+
+.negrito {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#destaque {
+    text-decoration: none;
+
+}
